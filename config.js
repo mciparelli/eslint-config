@@ -4,6 +4,8 @@ module.exports = {
     'comma-dangle': [2, 'never'],
     'new-cap': [2, {
       'capIsNew': false
-    }]
+    }],
+    'import/no-unresolved': 0,
+    'import/no-extraneous-dependencies': 0
   }
 };
