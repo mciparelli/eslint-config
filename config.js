@@ -5,6 +5,7 @@ module.exports = {
     'new-cap': [2, {
       'capIsNew': false
     }],
+    'no-void': 0,
     'import/no-unresolved': 0,
     'import/no-extraneous-dependencies': 0
   }
