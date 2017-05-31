@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mciparelli",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "description": "@mciparelli linting rules",
   "main": "config.js",
   "repository": {
